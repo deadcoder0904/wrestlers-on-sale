@@ -1,6 +1,16 @@
 # wrestlers-on-sale
 
+> Wrestlers on Sale Pricing Grid
 
+# Screenshots
+
+### MACBOOK
+
+![Mac](http://imgur.com/tLAlcKM.png)
+
+### HTC
+
+![HTC](http://imgur.com/YQyC2rX.png)
 
 ## License
 
