@@ -4,13 +4,9 @@
 
 # Screenshots
 
-### MACBOOK
+### IMAC
 
-![Mac](http://imgur.com/tLAlcKM.png)
-
-### HTC
-
-![HTC](http://imgur.com/YQyC2rX.png)
+![IMac](http://imgur.com/JP8yvhc.png)
 
 ## License
 
