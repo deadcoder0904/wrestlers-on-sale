@@ -1,0 +1,21 @@
+html {
+	background: #1c1b1b;
+}
+
+.container {
+	align-items: center;
+}
+
+.box {
+	background: rgba(85, 85, 85, 0.14);
+	display: flex;
+	flex: 1;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+@media all and (max-width: 1455px) {
+	.container {
+		display: inline-block;
+	}
+}
