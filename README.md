@@ -2,7 +2,7 @@
 
 > Wrestlers on Sale Pricing Grid
 
-# Screenshots
+# Screenshot
 
 ### IMAC
 
